@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaqib Zahoor 
 - 👀 I’m interested in Artificial Intelligence and Graph Theory
-- 🌱 I’m currently working on Mathematical Modelling of Graph Generative Networks...
-- 💞️ I’m looking to collaborate on LaTex, Machine Learning Algorithms and Data Analysis
+- 🌱 I’m currently working on  Graph Generative Networks...
+- 💞️ I’m looking to collaborate on  Machine Learning and Data Analysis
 - 📫 You can reach me at aaqib.cse19@nitttrchd.ac.in...
 
 <!---
